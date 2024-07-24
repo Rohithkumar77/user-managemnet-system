@@ -5,8 +5,7 @@
 The User Management System is a web application built with Spring Boot for the backend, React for the frontend, and MySQL as the database. The system allows users to manage user accounts, including viewing, editing, and deleting user details.
 
 
-![User Management System]([screenshot.png](https://github.com/Rohithkumar77/user-managemnet-system/blob/main/Screenshot_24-7-2024_174420_localhost.jpe))
-
+![User Management System](https://github.com/Rohithkumar77/user-managemnet-system/blob/main/Screenshot_24-7-2024_174420_localhost.jpeg)
 ## Features
 
 - **User List**: Display a table of users with ID, name, username, email, and action buttons.
