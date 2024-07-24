@@ -28,5 +28,5 @@ The User Management System is a web application built with Spring Boot for the b
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/yourusername/user-management-system-backend.git
-   cd user-management-system-backend
+   git clone https://github.com/yourusername/user-management-system.git
+   cd user-management-system
